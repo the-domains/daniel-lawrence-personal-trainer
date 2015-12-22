@@ -1,7 +1,7 @@
 name: Daniel Lawrence Personal Trainer
 favicon: null
-layout_spectrum: 0.29177836095914245
-typography_spectrum: 0.5579127601813525
+layout_spectrum: 0.21119
+typography_spectrum: 0.51354
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.717867469182238
+  brandStrength: 0.5
   lightness: 0.7025177753530443
-  saturation: 0.2503354465588927
+  saturation: 0.25
   rhythmicContrast: 0.3011805310379714
 purpose: []
